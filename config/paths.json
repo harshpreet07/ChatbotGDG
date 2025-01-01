@@ -1,5 +1,5 @@
 {
     "problem_dir": "./data/problems",
-    "base_url": "https://codeforces.com/problemset?tags=1300-1500",
+    "base_url": "https://codeforces.com/problemset?tags=1300",
     "delay": 2
 }
