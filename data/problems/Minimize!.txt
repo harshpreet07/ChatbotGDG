@@ -1,0 +1,32 @@
+Title: A. Minimize!
+
+Time Limit: time limit per test1 second
+Memory Limit: memory limit per test256 megabytes
+
+Statement:
+You are given two integers a and b (a ≤q b). Over all possible integer values of c (a ≤q c ≤q b), find the minimum value of (c - a) + (b - c).
+
+The first line contains t (1 ≤q t ≤q 55) — the number of test cases.
+
+Each test case contains two integers a and b (1 ≤q a ≤q b ≤q 10).
+
+For each test case, output the minimum possible value of (c - a) + (b - c) on a new line.
+
+In the first test case, you can choose c = 1 and obtain an answer of (1 - 1) + (2 - 1) = 1. It can be shown this is the minimum value possible.
+
+In the second test case, you can choose c = 6 and obtain an answer of (6 - 3) + (10 - 6) = 7. It can be shown this is the minimum value possible.
+
+
+
+Sample Tests:
+Sample Input:
+3
+1 2
+3 10
+5 5
+
+Sample Output:
+1
+7
+0
+

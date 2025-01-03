@@ -1,0 +1,1962 @@
+[
+    {
+        "contest_id_problem_index": "2011-B",
+        "title": "Shuffle",
+        "url": "https://codeforces.com/problemset/problem/2011/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2011-A",
+        "title": "Problem Solving",
+        "url": "https://codeforces.com/problemset/problem/2011/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2010-C2",
+        "title": "Message Transmission Error (hard version)",
+        "url": "https://codeforces.com/problemset/problem/2010/C2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2010-C1",
+        "title": "Message Transmission Error (easy version)",
+        "url": "https://codeforces.com/problemset/problem/2010/C1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2010-B",
+        "title": "Three Brothers",
+        "url": "https://codeforces.com/problemset/problem/2010/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2010-A",
+        "title": "Alternating Sum of Numbers",
+        "url": "https://codeforces.com/problemset/problem/2010/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-G3",
+        "title": "Yunli's Subarray Queries (extreme version)",
+        "url": "https://codeforces.com/problemset/problem/2009/G3",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-G2",
+        "title": "Yunli's Subarray Queries (hard version)",
+        "url": "https://codeforces.com/problemset/problem/2009/G2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-G1",
+        "title": "Yunli's Subarray Queries (easy version)",
+        "url": "https://codeforces.com/problemset/problem/2009/G1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-F",
+        "title": "Firefly's Queries",
+        "url": "https://codeforces.com/problemset/problem/2009/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-E",
+        "title": "Klee's SUPER DUPER LARGE Array!!!",
+        "url": "https://codeforces.com/problemset/problem/2009/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-D",
+        "title": "Satyam and Counting",
+        "url": "https://codeforces.com/problemset/problem/2009/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-C",
+        "title": "The Legend of Freya the Frog",
+        "url": "https://codeforces.com/problemset/problem/2009/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-B",
+        "title": "osu!mania",
+        "url": "https://codeforces.com/problemset/problem/2009/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2009-A",
+        "title": "Minimize!",
+        "url": "https://codeforces.com/problemset/problem/2009/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2008-H",
+        "title": "Sakurako's Test",
+        "url": "https://codeforces.com/problemset/problem/2008/H",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2008-G",
+        "title": "Sakurako's Task",
+        "url": "https://codeforces.com/problemset/problem/2008/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2008-F",
+        "title": "Sakurako's Box",
+        "url": "https://codeforces.com/problemset/problem/2008/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2008-E",
+        "title": "Alternating String",
+        "url": "https://codeforces.com/problemset/problem/2008/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2008-D",
+        "title": "Sakurako's Hobby",
+        "url": "https://codeforces.com/problemset/problem/2008/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2008-C",
+        "title": "Longest Good Array",
+        "url": "https://codeforces.com/problemset/problem/2008/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2008-B",
+        "title": "Square or Not",
+        "url": "https://codeforces.com/problemset/problem/2008/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2008-A",
+        "title": "Sakurako's Exam",
+        "url": "https://codeforces.com/problemset/problem/2008/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2007-C",
+        "title": "Dora and C++",
+        "url": "https://codeforces.com/problemset/problem/2007/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2007-B",
+        "title": "Index and Maximum Value",
+        "url": "https://codeforces.com/problemset/problem/2007/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2007-A",
+        "title": "Dora's Set",
+        "url": "https://codeforces.com/problemset/problem/2007/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2006-F",
+        "title": "Dora's Paint",
+        "url": "https://codeforces.com/problemset/problem/2006/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2006-E",
+        "title": "Iris's Full Binary Tree",
+        "url": "https://codeforces.com/problemset/problem/2006/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test1024 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2006-D",
+        "title": "Iris and Adjacent Products",
+        "url": "https://codeforces.com/problemset/problem/2006/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2006-C",
+        "title": "Eri and Expanded Sets",
+        "url": "https://codeforces.com/problemset/problem/2006/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2006-B",
+        "title": "Iris and the Tree",
+        "url": "https://codeforces.com/problemset/problem/2006/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2006-A",
+        "title": "Iris and Game on the Tree",
+        "url": "https://codeforces.com/problemset/problem/2006/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2005-E2",
+        "title": "Subtangle Game (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/2005/E2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2005-E1",
+        "title": "Subtangle Game (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/2005/E1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2005-D",
+        "title": "Alter the GCD",
+        "url": "https://codeforces.com/problemset/problem/2005/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2005-C",
+        "title": "Lazy Narek",
+        "url": "https://codeforces.com/problemset/problem/2005/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2005-B2",
+        "title": "The Strict Teacher (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/2005/B2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1.5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2005-B1",
+        "title": "The Strict Teacher (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/2005/B1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1.5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2005-A",
+        "title": "Simple Palindrome",
+        "url": "https://codeforces.com/problemset/problem/2005/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2004-G",
+        "title": "Substring Compression",
+        "url": "https://codeforces.com/problemset/problem/2004/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test1024 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2004-F",
+        "title": "Make a Palindrome",
+        "url": "https://codeforces.com/problemset/problem/2004/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test5 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2004-E",
+        "title": "Not a Nim Problem",
+        "url": "https://codeforces.com/problemset/problem/2004/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2004-D",
+        "title": "Colored Portals",
+        "url": "https://codeforces.com/problemset/problem/2004/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2004-C",
+        "title": "Splitting Items",
+        "url": "https://codeforces.com/problemset/problem/2004/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2004-B",
+        "title": "Game with Doors",
+        "url": "https://codeforces.com/problemset/problem/2004/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2004-A",
+        "title": "Closest Point",
+        "url": "https://codeforces.com/problemset/problem/2004/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2003-F",
+        "title": "Turtle and Three Sequences",
+        "url": "https://codeforces.com/problemset/problem/2003/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2003-E2",
+        "title": "Turtle and Inversions (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/2003/E2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2003-E1",
+        "title": "Turtle and Inversions (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/2003/E1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2003-D2",
+        "title": "Turtle and a MEX Problem (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/2003/D2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2003-D1",
+        "title": "Turtle and a MEX Problem (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/2003/D1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2003-C",
+        "title": "Turtle and Good Pairs",
+        "url": "https://codeforces.com/problemset/problem/2003/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2003-B",
+        "title": "Turtle and Piggy Are Playing a Game 2",
+        "url": "https://codeforces.com/problemset/problem/2003/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2003-A",
+        "title": "Turtle and Good Strings",
+        "url": "https://codeforces.com/problemset/problem/2003/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-H",
+        "title": "Counting 101",
+        "url": "https://codeforces.com/problemset/problem/2002/H",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test10.1 seconds",
+        "memory_limit": "memory limit per test1010 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-G",
+        "title": "Lattice Optimizing",
+        "url": "https://codeforces.com/problemset/problem/2002/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test7 seconds",
+        "memory_limit": "memory limit per test1024 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-F2",
+        "title": "Court Blue (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/2002/F2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-F1",
+        "title": "Court Blue (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/2002/F1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-E",
+        "title": "Cosmic Rays",
+        "url": "https://codeforces.com/problemset/problem/2002/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-D2",
+        "title": "DFS Checker (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/2002/D2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-D1",
+        "title": "DFS Checker (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/2002/D1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-C",
+        "title": "Black Circles",
+        "url": "https://codeforces.com/problemset/problem/2002/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-B",
+        "title": "Removals Game",
+        "url": "https://codeforces.com/problemset/problem/2002/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2002-A",
+        "title": "Distanced Coloring",
+        "url": "https://codeforces.com/problemset/problem/2002/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2001-E2",
+        "title": "Deterministic Heap (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/2001/E2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2001-E1",
+        "title": "Deterministic Heap (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/2001/E1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2001-D",
+        "title": "Longest Max Min Subsequence",
+        "url": "https://codeforces.com/problemset/problem/2001/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2001-C",
+        "title": "Guess The Tree",
+        "url": "https://codeforces.com/problemset/problem/2001/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2001-B",
+        "title": "Generate Permutation",
+        "url": "https://codeforces.com/problemset/problem/2001/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1.5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2001-A",
+        "title": "Make All Equal",
+        "url": "https://codeforces.com/problemset/problem/2001/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2000-H",
+        "title": "Ksyusha and the Loaded Set",
+        "url": "https://codeforces.com/problemset/problem/2000/H",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2000-G",
+        "title": "Call During the Journey",
+        "url": "https://codeforces.com/problemset/problem/2000/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2000-F",
+        "title": "Color Rows and Columns",
+        "url": "https://codeforces.com/problemset/problem/2000/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2000-E",
+        "title": "Photoshoot for Gorillas",
+        "url": "https://codeforces.com/problemset/problem/2000/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2000-D",
+        "title": "Right Left Wrong",
+        "url": "https://codeforces.com/problemset/problem/2000/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2000-C",
+        "title": "Numeric String Template",
+        "url": "https://codeforces.com/problemset/problem/2000/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2000-B",
+        "title": "Seating in a Bus",
+        "url": "https://codeforces.com/problemset/problem/2000/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "2000-A",
+        "title": "Primary Task",
+        "url": "https://codeforces.com/problemset/problem/2000/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1999-G2",
+        "title": "Ruler (hard version)",
+        "url": "https://codeforces.com/problemset/problem/1999/G2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1999-G1",
+        "title": "Ruler (easy version)",
+        "url": "https://codeforces.com/problemset/problem/1999/G1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1999-F",
+        "title": "Expected Median",
+        "url": "https://codeforces.com/problemset/problem/1999/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1999-E",
+        "title": "Triple Operations",
+        "url": "https://codeforces.com/problemset/problem/1999/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1999-D",
+        "title": "Slavic's Exam",
+        "url": "https://codeforces.com/problemset/problem/1999/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1999-C",
+        "title": "Showering",
+        "url": "https://codeforces.com/problemset/problem/1999/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1999-B",
+        "title": "Card Game",
+        "url": "https://codeforces.com/problemset/problem/1999/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1999-A",
+        "title": "A+B Again?",
+        "url": "https://codeforces.com/problemset/problem/1999/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1998-E2",
+        "title": "Eliminating Balls With Merging (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1998/E2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1998-E1",
+        "title": "Eliminating Balls With Merging (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1998/E1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1998-D",
+        "title": "Determine Winning Islands in Race",
+        "url": "https://codeforces.com/problemset/problem/1998/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1998-C",
+        "title": "Perform Operations to Maximize Score",
+        "url": "https://codeforces.com/problemset/problem/1998/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1998-B",
+        "title": "Minimize Equal Sum Subarrays",
+        "url": "https://codeforces.com/problemset/problem/1998/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1.5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1998-A",
+        "title": "Find K Distinct Points with Fixed Center",
+        "url": "https://codeforces.com/problemset/problem/1998/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1997-F",
+        "title": "Chips on a Line",
+        "url": "https://codeforces.com/problemset/problem/1997/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test5 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1997-E",
+        "title": "Level Up",
+        "url": "https://codeforces.com/problemset/problem/1997/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1997-D",
+        "title": "Maximize the Root",
+        "url": "https://codeforces.com/problemset/problem/1997/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1997-C",
+        "title": "Even Positions",
+        "url": "https://codeforces.com/problemset/problem/1997/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1997-B",
+        "title": "Make Three Regions",
+        "url": "https://codeforces.com/problemset/problem/1997/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1997-A",
+        "title": "Strong Password",
+        "url": "https://codeforces.com/problemset/problem/1997/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1996-G",
+        "title": "Penacony",
+        "url": "https://codeforces.com/problemset/problem/1996/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1996-F",
+        "title": "Bomb",
+        "url": "https://codeforces.com/problemset/problem/1996/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1996-E",
+        "title": "Decode",
+        "url": "https://codeforces.com/problemset/problem/1996/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1996-D",
+        "title": "Fun",
+        "url": "https://codeforces.com/problemset/problem/1996/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1996-C",
+        "title": "Sort",
+        "url": "https://codeforces.com/problemset/problem/1996/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1996-B",
+        "title": "Scale",
+        "url": "https://codeforces.com/problemset/problem/1996/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1996-A",
+        "title": "Legs",
+        "url": "https://codeforces.com/problemset/problem/1996/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1995-E2",
+        "title": "Let Me Teach You a Lesson (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1995/E2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1995-E1",
+        "title": "Let Me Teach You a Lesson (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1995/E1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1995-D",
+        "title": "Cases",
+        "url": "https://codeforces.com/problemset/problem/1995/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1995-C",
+        "title": "Squaring",
+        "url": "https://codeforces.com/problemset/problem/1995/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1995-B2",
+        "title": "Bouquet (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1995/B2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1.5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1995-B1",
+        "title": "Bouquet (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1995/B1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1.5 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1995-A",
+        "title": "Diagonals",
+        "url": "https://codeforces.com/problemset/problem/1995/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1994-F",
+        "title": "Stardew Valley",
+        "url": "https://codeforces.com/problemset/problem/1994/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1994-E",
+        "title": "Wooden Game",
+        "url": "https://codeforces.com/problemset/problem/1994/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1994-C",
+        "title": "Hungry Games",
+        "url": "https://codeforces.com/problemset/problem/1994/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1994-B",
+        "title": "Fun Game",
+        "url": "https://codeforces.com/problemset/problem/1994/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1993-F2",
+        "title": "Dyn-scripted Robot (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1993/F2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1993-F1",
+        "title": "Dyn-scripted Robot (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1993/F1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1993-E",
+        "title": "Xor-Grid Problem",
+        "url": "https://codeforces.com/problemset/problem/1993/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1993-D",
+        "title": "Med-imize",
+        "url": "https://codeforces.com/problemset/problem/1993/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1993-C",
+        "title": "Light Switches",
+        "url": "https://codeforces.com/problemset/problem/1993/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1993-B",
+        "title": "Parity and Sum",
+        "url": "https://codeforces.com/problemset/problem/1993/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1993-A",
+        "title": "Question Marks",
+        "url": "https://codeforces.com/problemset/problem/1993/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1992-G",
+        "title": "Ultra-Meow",
+        "url": "https://codeforces.com/problemset/problem/1992/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2.5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1992-F",
+        "title": "Valuable Cards",
+        "url": "https://codeforces.com/problemset/problem/1992/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1992-E",
+        "title": "Novice's Mistake",
+        "url": "https://codeforces.com/problemset/problem/1992/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1992-D",
+        "title": "Test of Love",
+        "url": "https://codeforces.com/problemset/problem/1992/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1992-C",
+        "title": "Gorilla and Permutation",
+        "url": "https://codeforces.com/problemset/problem/1992/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1992-B",
+        "title": "Angry Monk",
+        "url": "https://codeforces.com/problemset/problem/1992/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1992-A",
+        "title": "Only Pluses",
+        "url": "https://codeforces.com/problemset/problem/1992/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-I",
+        "title": "Grid Game",
+        "url": "https://codeforces.com/problemset/problem/1991/I",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-H",
+        "title": "Prime Split Game",
+        "url": "https://codeforces.com/problemset/problem/1991/H",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-G",
+        "title": "Grid Reset",
+        "url": "https://codeforces.com/problemset/problem/1991/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-F",
+        "title": "Triangle Formation",
+        "url": "https://codeforces.com/problemset/problem/1991/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test5 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-E",
+        "title": "Coloring Game",
+        "url": "https://codeforces.com/problemset/problem/1991/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-D",
+        "title": "Prime XOR Coloring",
+        "url": "https://codeforces.com/problemset/problem/1991/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-C",
+        "title": "Absolute Zero",
+        "url": "https://codeforces.com/problemset/problem/1991/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-B",
+        "title": "AND Reconstruction",
+        "url": "https://codeforces.com/problemset/problem/1991/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1991-A",
+        "title": "Maximize the Last Element",
+        "url": "https://codeforces.com/problemset/problem/1991/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1990-F",
+        "title": "Polygonal Segments",
+        "url": "https://codeforces.com/problemset/problem/1990/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test8 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1990-E2",
+        "title": "Catch the Mole(Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1990/E2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1990-E1",
+        "title": "Catch the Mole(Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1990/E1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1990-D",
+        "title": "Grid Puzzle",
+        "url": "https://codeforces.com/problemset/problem/1990/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1990-C",
+        "title": "Mad MAD Sum",
+        "url": "https://codeforces.com/problemset/problem/1990/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1990-B",
+        "title": "Array Craft",
+        "url": "https://codeforces.com/problemset/problem/1990/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1990-A",
+        "title": "Submission Bait",
+        "url": "https://codeforces.com/problemset/problem/1990/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1989-F",
+        "title": "Simultaneous Coloring",
+        "url": "https://codeforces.com/problemset/problem/1989/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test6 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1989-E",
+        "title": "Distance to Different",
+        "url": "https://codeforces.com/problemset/problem/1989/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1989-D",
+        "title": "Smithing Skill",
+        "url": "https://codeforces.com/problemset/problem/1989/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1989-C",
+        "title": "Two Movies",
+        "url": "https://codeforces.com/problemset/problem/1989/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1989-B",
+        "title": "Substring and Subsequence",
+        "url": "https://codeforces.com/problemset/problem/1989/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1989-A",
+        "title": "Catch the Coin",
+        "url": "https://codeforces.com/problemset/problem/1989/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1988-F",
+        "title": "Heartbeat",
+        "url": "https://codeforces.com/problemset/problem/1988/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test5 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1988-E",
+        "title": "Range Minimum Sum",
+        "url": "https://codeforces.com/problemset/problem/1988/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1988-D",
+        "title": "The Omnipotent Monster Killer",
+        "url": "https://codeforces.com/problemset/problem/1988/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1988-C",
+        "title": "Increasing Sequence with Fixed OR",
+        "url": "https://codeforces.com/problemset/problem/1988/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1988-B",
+        "title": "Make Majority",
+        "url": "https://codeforces.com/problemset/problem/1988/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1.5 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1988-A",
+        "title": "Split the Multiset",
+        "url": "https://codeforces.com/problemset/problem/1988/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-H",
+        "title": "Fumo Temple",
+        "url": "https://codeforces.com/problemset/problem/1987/H",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-G2",
+        "title": "Spinning Round (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1987/G2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test7 seconds",
+        "memory_limit": "memory limit per test1024 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-G1",
+        "title": "Spinning Round (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1987/G1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test7 seconds",
+        "memory_limit": "memory limit per test1024 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-F2",
+        "title": "Interesting Problem (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1987/F2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-F1",
+        "title": "Interesting Problem (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1987/F1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-E",
+        "title": "Wonderful Tree!",
+        "url": "https://codeforces.com/problemset/problem/1987/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-D",
+        "title": "World is Mine",
+        "url": "https://codeforces.com/problemset/problem/1987/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-C",
+        "title": "Basil's Garden",
+        "url": "https://codeforces.com/problemset/problem/1987/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-B",
+        "title": "K-Sort",
+        "url": "https://codeforces.com/problemset/problem/1987/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1987-A",
+        "title": "Upload More RAM",
+        "url": "https://codeforces.com/problemset/problem/1987/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1986-G2",
+        "title": "Permutation Problem (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1986/G2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test128 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1986-G1",
+        "title": "Permutation Problem (Simple Version)",
+        "url": "https://codeforces.com/problemset/problem/1986/G1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test128 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1986-F",
+        "title": "Non-academic Problem",
+        "url": "https://codeforces.com/problemset/problem/1986/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1986-E",
+        "title": "Beautiful Array",
+        "url": "https://codeforces.com/problemset/problem/1986/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1986-D",
+        "title": "Mathematical Problem",
+        "url": "https://codeforces.com/problemset/problem/1986/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1986-C",
+        "title": "Update Queries",
+        "url": "https://codeforces.com/problemset/problem/1986/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1986-B",
+        "title": "Matrix Stabilization",
+        "url": "https://codeforces.com/problemset/problem/1986/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1986-A",
+        "title": "X Axis",
+        "url": "https://codeforces.com/problemset/problem/1986/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-H2",
+        "title": "Maximize the Largest Component (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1985/H2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-H1",
+        "title": "Maximize the Largest Component (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1985/H1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test512 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-G",
+        "title": "D-Function",
+        "url": "https://codeforces.com/problemset/problem/1985/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-F",
+        "title": "Final Boss",
+        "url": "https://codeforces.com/problemset/problem/1985/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-E",
+        "title": "Secret Box",
+        "url": "https://codeforces.com/problemset/problem/1985/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-D",
+        "title": "Manhattan Circle",
+        "url": "https://codeforces.com/problemset/problem/1985/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-C",
+        "title": "Good Prefixes",
+        "url": "https://codeforces.com/problemset/problem/1985/C",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-B",
+        "title": "Maximum Multiple Sum",
+        "url": "https://codeforces.com/problemset/problem/1985/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1985-A",
+        "title": "Creating Words",
+        "url": "https://codeforces.com/problemset/problem/1985/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-H",
+        "title": "Tower Capturing",
+        "url": "https://codeforces.com/problemset/problem/1984/H",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-G",
+        "title": "Magic Trick II",
+        "url": "https://codeforces.com/problemset/problem/1984/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-F",
+        "title": "Reconstruction",
+        "url": "https://codeforces.com/problemset/problem/1984/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-E",
+        "title": "Shuffle",
+        "url": "https://codeforces.com/problemset/problem/1984/E",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-D",
+        "title": "''a'' String Problem",
+        "url": "https://codeforces.com/problemset/problem/1984/D",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-C2",
+        "title": "Magnitude (Hard Version)",
+        "url": "https://codeforces.com/problemset/problem/1984/C2",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-C1",
+        "title": "Magnitude (Easy Version)",
+        "url": "https://codeforces.com/problemset/problem/1984/C1",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test2 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-B",
+        "title": "Large Addition",
+        "url": "https://codeforces.com/problemset/problem/1984/B",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1984-A",
+        "title": "Strange Splitting",
+        "url": "https://codeforces.com/problemset/problem/1984/A",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test1 second",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1983-G",
+        "title": "Your Loss",
+        "url": "https://codeforces.com/problemset/problem/1983/G",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test3 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    },
+    {
+        "contest_id_problem_index": "1983-F",
+        "title": "array-value",
+        "url": "https://codeforces.com/problemset/problem/1983/F",
+        "tags": [
+            "Uncategorized"
+        ],
+        "time_limit": "time limit per test4 seconds",
+        "memory_limit": "memory limit per test256 megabytes"
+    }
+]

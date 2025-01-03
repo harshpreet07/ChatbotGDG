@@ -1,0 +1,24 @@
+Title: Distanced Coloring
+
+Time Limit: time limit per test1 second
+Memory Limit: memory limit per test256 megabytes
+
+Problem Statement:
+You received an $$$n\times m$$$ grid from a mysterious source. The source also gave you a magic positive integer constant $$$k$$$.
+
+The source told you to color the grid with some colors, satisfying the following condition:
+
+- If $$$(x_1,y_1)$$$, $$$(x_2,y_2)$$$ are two distinct cells with the same color, then $$$\max(|x_1-x_2|,|y_1-y_2|)\ge k$$$.
+You don't like using too many colors. Please find the minimum number of colors needed to color the grid.
+
+Each test contains multiple test cases. The first line contains the number of test cases $$$t$$$ ($$$1\le t\le1000$$$). The description of the test cases follows.
+
+The only line of each test case consists of three positive integers $$$n$$$, $$$m$$$, $$$k$$$ ($$$1\le n,m,k\le10^4$$$) — the dimensions of the grid and the magic constant.
+
+For each test case, print a single integer — the minimum number of colors needed to color the grid.
+
+In the first test case, one of the optimal constructions is:
+
+In the second test case, the color of all cells must be pairwise different, so the answer is $$$5$$$.
+
+

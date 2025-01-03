@@ -1,0 +1,15 @@
+Title: A+B Again?
+
+Time Limit: time limit per test1 second
+Memory Limit: memory limit per test256 megabytes
+
+Problem Statement:
+Given a two-digit positive integer $$$n$$$, find the sum of its digits.
+
+The first line contains an integer $$$t$$$ ($$$1 \leq t \leq 90$$$) — the number of test cases.
+
+The only line of each test case contains a single two-digit positive integer $$$n$$$ ($$$10 \leq n \leq 99$$$).
+
+For each test case, output a single integer — the sum of the digits of $$$n$$$.
+
+

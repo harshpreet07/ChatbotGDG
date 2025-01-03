@@ -1,0 +1,51 @@
+Title: Ruler (easy version)
+
+Time Limit: time limit per test1 second
+Memory Limit: memory limit per test256 megabytes
+
+Problem Statement:
+This is the easy version of the problem. The only difference between the two versions is that in this version, you can make at most $$$\mathbf{10}$$$ queries .
+
+
+
+We have a secret ruler that is missing one number $$$x$$$ ($$$2 \leq x \leq 999$$$). When you measure an object of length $$$y$$$, the ruler reports the following values:
+
+- If $$$y < x$$$, the ruler (correctly) measures the object as having length $$$y$$$.
+- If $$$y \geq x$$$, the ruler incorrectly measures the object as having length $$$y+1$$$.
+You need to find the value of $$$x$$$. To do that, you can make queries of the following form:
+
+- $$$\texttt{?}~a~b$$$ — in response, we will measure the side lengths of an $$$a \times b$$$ rectangle with our ruler and multiply the results, reporting the measured area of the rectangle back to you. For example, if $$$x=4$$$ and you query a $$$3 \times 5$$$ rectangle, we will measure its side lengths as $$$3 \times 6$$$ and report $$$18$$$ back to you.
+Find the value of $$$x$$$. You can ask at most $$$\mathbf{10}$$$ queries.
+
+Each test contains multiple test cases. The first line of input contains a single integer $$$t$$$ ($$$1 \leq t \leq 1000$$$) — the number of test cases.
+
+There is no initial input for each test case. You should begin the interaction by asking a query.
+
+To make a query, output a single line of the form $$$\texttt{?}~a~b$$$ ($$$1 \leq a, b \leq 1000$$$). In response, you will be told the measured area of the rectangle, according to our secret ruler.
+
+When you are ready to print the answer, output a single line of the form $$$\texttt{!}~x$$$ ($$$2 \leq x \leq 999$$$). After that, proceed to process the next test case or terminate the program if it was the last test case. Printing the answer does not count as a query.
+
+The interactor is not adaptive, meaning that the answer is known before the participant asks the queries and doesn't depend on the queries asked by the participant.
+
+If your program makes more than $$$10$$$ queries for one set of input data, makes an invalid query, or prints the wrong value of $$$x$$$, then the response to the query will be $$$-1$$$. After receiving such a response, your program should immediately terminate to receive the verdict Wrong Answer . Otherwise, you can get an arbitrary verdict because your solution will continue to read from a closed stream.
+
+After printing a query do not forget to output the end of line and flush the output. Otherwise, you may get Idleness limit exceeded verdict. To do this, use:
+
+-  fflush(stdout) or cout.flush() in C++;
+-  System.out.flush() in Java;
+-  flush(output) in Pascal;
+-  stdout.flush() in Python;
+- see the documentation for other languages.
+Hacks
+
+To make a hack, use the following format.
+
+The first line should contain a single integer $$$t$$$ ($$$1 \leq t \leq 1000$$$) — the number of test cases.
+
+The only line of each test case should contain a single integer $$$x$$$ ($$$2 \leq x \leq 999$$$) — the missing number on the ruler.
+
+In the first test, the interaction proceeds as follows.
+
+Note that the line breaks in the example input and output are for the sake of clarity, and do not occur in the real interaction.
+
+

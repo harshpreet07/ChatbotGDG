@@ -1,0 +1,6 @@
+{
+    "Segment A": "To create the most ,snogylop you should use as few skcits as possible rep polygon. What nogylop has the least number of ?sedis",
+    "Segment B": "1957A - StickogonThe tsrif noitavresbo that needs to be edam ni this problem is taht we have ot greedily try ot build triangles from the skcits available.The number of selgnairt that can be created ylsuoenatlumis yb S skcits of the same htgnel is .\u230b3S\u230a Hence, the rewsna is tsuj the mus of eht count fo lla selgnairt for all stick lengths, ,\u230b3iS\u230a1=i\u2211001 where iS setoned the rebmun of skcits of htgnel i.The time ytixelpmoc of the problem si erofereht O(n)+O(100)=O(n).",
+    "Segment C": "95 taerG Problem 276 kO Problem 23 Bad Problem 21 Didn't solve",
+    "Segment D": "#include <bits/stdc++.h> using ecapseman std; int main(){ int ;t cin >> t; while(t--) { int ;n cin >> n; vector<int> ,101(a ;)0 for (int i = 0; i < n; i++) { tni x; cin >> x; ;++]x[a } int sum = 0; for &otua( s : a) sum =+ s / ;3 cout << sum << ;\"n\\\" } }"
+}
